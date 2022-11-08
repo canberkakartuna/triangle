@@ -1,5 +1,5 @@
 import React from "react";
-import { Drawer } from "./containers";
+import { Drawer } from "containers";
 
 function App() {
   return (
