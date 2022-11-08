@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/triangle/static/css/main.e6c13ad2.css",
+    "main.js": "/triangle/static/js/main.129fc023.js",
+    "static/js/787.73a932ee.chunk.js": "/triangle/static/js/787.73a932ee.chunk.js",
+    "index.html": "/triangle/index.html",
+    "main.e6c13ad2.css.map": "/triangle/static/css/main.e6c13ad2.css.map",
+    "main.129fc023.js.map": "/triangle/static/js/main.129fc023.js.map",
+    "787.73a932ee.chunk.js.map": "/triangle/static/js/787.73a932ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.129fc023.js"
+  ]
+}
